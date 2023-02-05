@@ -1,0 +1,18 @@
+
+Account Name & Number Updated
+2023-02-05 04:51:45
+ ========================================================================================================== 
+         Acount Name       Account Number              Balance       Deposit Amount      Withdraw Amount
+               Afrah            999999999                  0.0                  0.0                 -0.0
+
+Deposite Amount Updated
+2023-02-05 04:52:17
+ ========================================================================================================== 
+         Acount Name       Account Number              Balance       Deposit Amount      Withdraw Amount
+               Afrah            999999999                 60.0                 60.0                 -0.0
+
+Withdrawl Amount Updated
+2023-02-05 04:52:35
+ ========================================================================================================== 
+         Acount Name       Account Number              Balance       Deposit Amount      Withdraw Amount
+               Afrah            999999999                 11.0                  0.0                -49.0
